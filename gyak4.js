@@ -16,3 +16,7 @@ console.log(isEven(7));
 // Write an arrow function called "cube" that takes a number as an argument and returns its cube.
 
 const cube = number => number **3;
+
+
+
+//sdsad

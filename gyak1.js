@@ -36,3 +36,6 @@ let car = {
 //Create a variable called favoritePainting and assign the title of your favorite painting to it.
 
 let favoritePainting = "Leonardo da Vinci: Mona Lisa";
+
+
+//fewjknleawkj
